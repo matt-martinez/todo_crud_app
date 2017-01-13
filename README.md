@@ -23,12 +23,11 @@ You're going to open issues on the repo formatting the title with the name of th
   Issue Example 4: [process question] views/edit.hbs, lines 2,5,9, how to pass data to the view?
 ```
 
-It might be a multi-line function or maybe just what a piece of middle ware is doing, or several different lines about configuring the Express Router etc.
+It might be a multi-line function or maybe just what a piece of middleware is doing, or several different lines about configuring the Express Router, etc.
 
-You also might open issues on lines of code that you don't understand. Your fellow students or myself will respond.
+You also might open issues on lines of code that you don't understand. Your fellow students or I will respond.
 
-At the end of this exercise we should hopefully of most if not all of this application documented with one if not more explanations of what each piece is doing.
-
+At the end of this exercise, we should have most if not all of this application documented with one if not more explanations of what each piece is doing.
 This repo can then be used as a resource!
 
 *(NOT AS A PLACE TO COPY + PASTE FROM)*

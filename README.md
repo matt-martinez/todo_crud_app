@@ -28,6 +28,7 @@ It might be a multi-line function or maybe just what a piece of middleware is do
 You also might open issues on lines of code that you don't understand. Your fellow students or I will respond.
 
 At the end of this exercise, we should have most if not all of this application documented with one if not more explanations of what each piece is doing.
+
 This repo can then be used as a resource!
 
 *(NOT AS A PLACE TO COPY + PASTE FROM)*
